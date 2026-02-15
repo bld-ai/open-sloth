@@ -1,0 +1,23 @@
+# Telegram Bot
+python-telegram-bot>=22.0
+
+# Google Sheets
+gspread==6.0.0
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# LLM Providers
+openai>=1.50.0
+anthropic>=0.18.0
+google-generativeai>=0.3.0
+ollama>=0.4.0
+
+# Configuration
+python-dotenv==1.0.0
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# Utilities
+loguru==0.7.2
+tenacity==8.2.3
